@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lectures, labs, and key dates for
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: c3bf37af-2a2d-d9a5-e38a-d9df5f4667a2
 ---
