@@ -66,4 +66,4 @@ Resources
 
 This course uses a materials software program designed in part by the faculty in conjunction with Granta Design. This is a link to that company's Web site, where you can learn more about that software, and purchase it if you like.
 
-CES EduPack Supplemental Teaching Resources used in the class, available through [Granta Design](http://www.grantadesign.com/education/).
+CES EduPack Supplemental Teaching Resources used in the class, available through {{% resource_link "2269a986-3899-49e0-9d73-bef1f0dea0c6" "Granta Design" %}}.
